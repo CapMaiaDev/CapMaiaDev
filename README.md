@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CapMaiaDev
+- 🌱 I am currently learning how to model and script for MTA.
